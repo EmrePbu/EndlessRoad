@@ -6,6 +6,7 @@ Unity 3D Endless Road
 
 // TODO Create road func
 
- `
-CreateRoads(GameObject roadPrefabs,int roadCount)
-`
+```c#
+public void CreateRoads(GameObject roadPrefabs,int roadCount);
+```
+
